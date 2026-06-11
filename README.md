@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 ## Divide and Conquer
 |  |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
