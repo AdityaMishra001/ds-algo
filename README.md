@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 ## Divide and Conquer
 |  |
@@ -80,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+## Simulation
+|  |
+| ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
