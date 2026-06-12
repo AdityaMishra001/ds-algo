@@ -1,13 +1,21 @@
 <h1 align="center">Aditya's DSA Journey 🚀</h1>
 
 <p align="center">
-  <a href="https://leetcode.com/u/aditya_mishra11/">LeetCode Profile</a> 
+  <a href="https://leetcode.com/u/aditya_mishra11/">
+    <img src="https://img.shields.io/badge/View%20My-LeetCode%20Profile-orange?logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aditya_mishra11?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/aditya_mishra11/)
+<p align="center">
+  <a href="https://leetcode.com/u/aditya_mishra11/">
+    <img src="https://leetcard.jacoblin.cool/aditya_mishra11?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
 
-A curated collection of my Data Structures & Algorithms solutions in C++.
-Focused on problem-solving, pattern recognition, and interview preparation.
+<p align="center">
+  A curated collection of my Data Structures & Algorithms solutions in C++.<br>
+  Focused on problem-solving, pattern recognition, and interview preparation.
+</p>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
