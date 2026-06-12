@@ -1,8 +1,7 @@
 <h1 align="center">Aditya's DSA Journey 🚀</h1>
 
 <p align="center">
-  <a href="https://leetcode.com/u/aditya_mishra11/">LeetCode Profile</a> •
-  <a href="https://github.com/AdityaMishra001">GitHub</a>
+  <a href="https://leetcode.com/u/aditya_mishra11/">LeetCode Profile</a> 
 </p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/aditya_mishra11?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/aditya_mishra11/)
