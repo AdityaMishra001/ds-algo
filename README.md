@@ -1,5 +1,10 @@
-# Aditya's DSA Journey 🚀
-[![LeetCode Profile](https://img.shields.io/badge/View%20My-LeetCode%20Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/aditya_mishra11/)
+<h1 align="center">Aditya's DSA Journey 🚀</h1>
+
+<p align="center">
+  <a href="https://leetcode.com/u/aditya_mishra11/">LeetCode Profile</a> •
+  <a href="https://github.com/AdityaMishra001">GitHub</a>
+</p>
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/aditya_mishra11?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/aditya_mishra11/)
 
 A curated collection of my Data Structures & Algorithms solutions in C++.
