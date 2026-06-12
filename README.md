@@ -128,4 +128,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaMishra001/ds-algo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AdityaMishra001/ds-algo/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
