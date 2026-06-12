@@ -34,6 +34,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/AdityaMishra001/ds-algo/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/AdityaMishra001/ds-algo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AdityaMishra001/ds-algo/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/AdityaMishra001/ds-algo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
@@ -97,6 +99,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AdityaMishra001/ds-algo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
 ## Dynamic Programming
@@ -118,5 +121,6 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AdityaMishra001/ds-algo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
