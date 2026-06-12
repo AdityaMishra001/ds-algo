@@ -1,10 +1,12 @@
 # Aditya's DSA Journey
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aditya_mishra11?theme=dark&font=Karma&ext=heatmap)
+# Aditya's DSA Journey 🚀
 
-A collection of LeetCode solutions in C++.
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aditya_mishra11?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/aditya_mishra11/)
 
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A curated collection of my Data Structures & Algorithms solutions in C++.
+Focused on problem-solving, pattern recognition, and interview preparation.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
