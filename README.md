@@ -74,6 +74,7 @@
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/AdityaMishra001/ds-algo/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/AdityaMishra001/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/0260-single-number-iii) |
@@ -112,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/AdityaMishra001/ds-algo/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
