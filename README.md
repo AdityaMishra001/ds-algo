@@ -115,6 +115,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/AdityaMishra001/ds-algo/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AdityaMishra001/ds-algo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0213-house-robber-ii) |
@@ -148,4 +149,12 @@
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
