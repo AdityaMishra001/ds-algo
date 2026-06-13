@@ -80,6 +80,7 @@
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AdityaMishra001/ds-algo/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
@@ -134,6 +135,11 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/0260-single-number-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AdityaMishra001/ds-algo/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AdityaMishra001/ds-algo/tree/master/2433-find-the-original-array-of-prefix-xor) |
+## Prefix Sum
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
