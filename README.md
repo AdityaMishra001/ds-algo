@@ -76,6 +76,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/AdityaMishra001/ds-algo/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/AdityaMishra001/ds-algo/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/AdityaMishra001/ds-algo/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/AdityaMishra001/ds-algo/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
@@ -96,6 +97,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -119,6 +121,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/AdityaMishra001/ds-algo/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/AdityaMishra001/ds-algo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
