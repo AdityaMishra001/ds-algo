@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AdityaMishra001/ds-algo/tree/master/0051-n-queens) |
+## Two Pointers
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
