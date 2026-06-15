@@ -1,54 +1,28 @@
-class Solution {
-public:
-    int helper(vector<vector<int>>& dp,vector<int>& prices,int day,int state){
-        if(day==prices.size()){
-            return 0;
-        }
-        if(dp[state][day]!=-1){
-            return dp[state][day];
-        }
+using vi = vector<int>;
+using vvi = vector<vi>;
 
-        int profit=0;
-        if(state==0){
-            int buy=-prices[day]+helper(dp,prices,day+1,1);
-            int dontbuy=helper(dp,prices,day+1,0);
-            profit=max(buy, dontbuy);
-        }else{
-            int sell= prices[day]+helper(dp,prices,day+1,0);
-            int dontsell=helper(dp,prices,day+1,1);
-            profit=max(sell,dontsell);
+class Solution {
+    int helper(vi& prices, int day, int state, vvi&memo) {
+        if (day == prices.size())
+            return 0;
+        if(memo[day][state] != -1)
+            return memo[day][state];
+        int profit = 0;
+        if (state == 0) {
+            int buy = -prices[day] + helper(prices, day + 1, 1, memo);
+            int dontBuy = helper(prices, day + 1, 0, memo);
+            profit = max(buy, dontBuy);
+        } else {
+            int sell = prices[day] + helper(prices, day + 1, 0, memo);
+            int dontSell = helper(prices, day + 1, 1, memo);
+            profit = max(sell, dontSell);
         }
-        return dp[state][day]=profit;
+        return memo[day][state] = profit;
     }
+
+public:
     int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        vector<vector<int>>dp(2,vector<int>(n,-1));
-        return helper(dp,prices,0,0);
-        
+        vvi memo(prices.size() + 5, vi(2, -1));
+        return helper(prices, 0, 0, memo);
     }
 };
-
-
-
-// class Solution {
-// public:
-//     void helper(vector<int>&prices,int i,int prev,int currProfit,int& maxProfit){
-//         if(i==prices.size()){
-//             return;
-//         }
-//         maxProfit=max(maxProfit,currProfit);
-
-//         //skip
-//         helper(prices,i+1,prev,currProfit,maxProfit);
-
-//         //sell & buy
-//         helper(prices,i+1,prices[i],currProfit+prices[i]-prev,maxProfit);
-
-
-//     }
-//     int maxProfit(vector<int>& prices) {
-//         int maxProfit=0;
-//         helper(prices,0,prices[0],0,maxProfit);
-//         return maxProfit;
-//     }
-// };
