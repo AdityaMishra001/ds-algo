@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
 ## Combinatorics
 |  |
 | ------- |
@@ -176,4 +177,8 @@
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
 <!---LeetCode Topics End-->
