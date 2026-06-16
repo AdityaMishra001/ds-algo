@@ -1,41 +1,44 @@
 class Solution {
 public:
-    
-    void solve(vector<vector<string>> &ans,vector<vector<char>> &board,vector<bool>&ColAttk,vector<bool>&lDigAttk,vector<bool>&rDigAttk,int row, int n){
+    void solve( vector<vector<string>>&ans,vector<string>&board,vector<bool>&AttackFromTop,vector<bool>&AttackFromTopl,vector<bool>&AttackFromTopr,int row,int n){
         if(row==n){
-            vector<string>temp;
-            for(int i=0;i<n;i++){
-                string curr_row(board[i].begin(),board[i].end());
-                temp.push_back(curr_row);
-            }
-            ans.push_back(temp);
+            //if all rows 0 to n-1 are filled now at index n save answer
+            ans.push_back(board);
             return;
         }
 
-        
-
+        // at current row search for suitable col
         for(int col=0;col<n;col++){
-            if(ColAttk[col] || lDigAttk[n-1+col-row] || rDigAttk[row+col])continue;
-            ColAttk[col]=1;
-            lDigAttk[n-1+col-row]=1;
-            rDigAttk[row+col]=1;
-            board[row][col]='Q';
 
-            solve(ans,board,ColAttk,lDigAttk,rDigAttk,row+1,n);
+            //if not possible continue;
+            if(AttackFromTop[col] || AttackFromTopl[n-1+row-col] || AttackFromTopr[row+col])continue;
             
-            ColAttk[col]=0;
-            lDigAttk[n-1+col-row]=0;
-            rDigAttk[row+col]=0;
-            board[row][col]='.';
+            //place the queen at possible place
+            board[row][col]='Q';
+            AttackFromTop[col]=1;
+            AttackFromTopl[row-col+n-1]=1;
+            AttackFromTopr[row+col]=1;
 
+            solve(ans,board,AttackFromTop,AttackFromTopl,AttackFromTopr,row+1,n);
+
+            //remove queen
+            board[row][col]='.';
+            AttackFromTop[col]=0;
+            AttackFromTopl[row-col+n-1]=0;
+            AttackFromTopr[row+col]=0;
         }
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>>ans;
-        vector<vector<char>>board(n,vector<char>(n,'.'));
-        vector<bool>ColAttk(n),lDigAttk(2*n-1),rDigAttk(2*n-1);
-
-        solve(ans,board,ColAttk,lDigAttk,rDigAttk,0,n);
+        vector<string>board;
+        for(int i=0;i<n;i++){
+            string row(n,'.');
+            board.push_back(row);
+        }
+        vector<bool> AttackFromTop(n),AttackFromTopl(2*n-1),AttackFromTopr(2*n-1);
+        solve(ans,board,AttackFromTop,AttackFromTopl,AttackFromTopr,0,n);
+        //cal helper to generate the ans
+        //call for 0th row 
         return ans;
     }
 };
