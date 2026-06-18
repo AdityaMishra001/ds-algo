@@ -91,6 +91,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AdityaMishra001/ds-algo/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -182,4 +184,12 @@
 |  |
 | ------- |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 <!---LeetCode Topics End-->
