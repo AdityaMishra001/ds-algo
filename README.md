@@ -164,6 +164,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AdityaMishra001/ds-algo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
@@ -199,4 +200,8 @@
 |  |
 | ------- |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
