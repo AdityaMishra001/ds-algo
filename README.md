@@ -22,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdityaMishra001/ds-algo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdityaMishra001/ds-algo/tree/master/0037-sudoku-solver) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -82,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdityaMishra001/ds-algo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdityaMishra001/ds-algo/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AdityaMishra001/ds-algo/tree/master/0051-n-queens) |
@@ -145,6 +147,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdityaMishra001/ds-algo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdityaMishra001/ds-algo/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/AdityaMishra001/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
