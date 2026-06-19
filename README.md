@@ -88,6 +88,7 @@
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/0260-single-number-iii) |
+| [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
@@ -106,10 +107,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 ## Union-Find
 |  |
@@ -132,6 +135,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/AdityaMishra001/ds-algo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Matrix
@@ -164,6 +168,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 ## Math
 |  |
