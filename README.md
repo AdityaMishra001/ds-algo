@@ -57,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -76,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AdityaMishra001/ds-algo/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/AdityaMishra001/ds-algo/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -179,6 +181,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AdityaMishra001/ds-algo/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
