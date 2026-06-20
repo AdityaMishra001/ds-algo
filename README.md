@@ -173,6 +173,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AdityaMishra001/ds-algo/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AdityaMishra001/ds-algo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AdityaMishra001/ds-algo/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AdityaMishra001/ds-algo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AdityaMishra001/ds-algo/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0052-n-queens-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AdityaMishra001/ds-algo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0060-permutation-sequence) |
+## String
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AdityaMishra001/ds-algo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
