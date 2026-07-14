@@ -145,6 +145,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/AdityaMishra001/ds-algo/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/AdityaMishra001/ds-algo/tree/master/0120-triangle) |
@@ -210,6 +211,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/AdityaMishra001/ds-algo/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AdityaMishra001/ds-algo/tree/master/0051-n-queens) |
@@ -244,6 +246,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AdityaMishra001/ds-algo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting Sort
 |  |
