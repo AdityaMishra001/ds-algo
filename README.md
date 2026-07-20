@@ -29,6 +29,7 @@
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -69,6 +70,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -76,6 +78,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -117,6 +120,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -129,6 +133,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 ## Union-Find
