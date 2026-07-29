@@ -58,6 +58,7 @@
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
@@ -149,6 +150,7 @@
 | [0207-course-schedule](https://github.com/AdityaMishra001/ds-algo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Matrix
 |  |
@@ -191,6 +194,7 @@
 | [0078-subsets](https://github.com/AdityaMishra001/ds-algo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/0260-single-number-iii) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AdityaMishra001/ds-algo/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AdityaMishra001/ds-algo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -263,4 +267,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaMishra001/ds-algo/tree/master/1833-maximum-ice-cream-bars) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
