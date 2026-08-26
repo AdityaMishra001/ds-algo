@@ -262,6 +262,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/0022-generate-parentheses) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMishra001/ds-algo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AdityaMishra001/ds-algo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting Sort
 |  |
@@ -271,4 +272,8 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMishra001/ds-algo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
