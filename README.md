@@ -118,6 +118,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3903-smallest-stable-index-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
+| [3903-smallest-stable-index-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
