@@ -10,28 +10,23 @@
  */
 class Solution {
 public:
+
     ListNode* insertionSortList(ListNode* head) {
-        if(!head||!head->next)
-            return head;
-
-        ListNode dummy(-1e4);
-        dummy.next=head;
-
-        ListNode* temp=head->next;
-        head->next=nullptr;
-
+        vector<ListNode*>l;
+        ListNode* temp=head;
         while(temp){
             ListNode* next=temp->next;
-            ListNode* prev=&dummy;
-
-            while(prev->next && prev->next->val<temp->val)
-                prev=prev->next;
-
-            temp->next=prev->next;
-            prev->next=temp;
-            
+            temp->next=nullptr;
+            l.push_back(temp);
             temp=next;
         }
-        return dummy.next;
+        sort(l.begin(),l.end(),
+        [](ListNode* a,ListNode* b){
+            return a->val<=b->val;
+        });
+        for(int i=0;i<l.size()-1;i++)l[i]->next=l[i+1];
+        return l[0];
+
+        
     }
 };
