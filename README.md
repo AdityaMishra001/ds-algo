@@ -34,6 +34,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1609-even-odd-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -62,6 +63,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [1609-even-odd-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1609-even-odd-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1609-even-odd-tree) |
 ## Linked List
 |  |
 | ------- |
