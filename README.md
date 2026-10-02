@@ -24,6 +24,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdityaMishra001/ds-algo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdityaMishra001/ds-algo/tree/master/0037-sudoku-solver) |
+| [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Tree
@@ -88,6 +89,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
+| [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -300,5 +302,10 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 | [0707-design-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0707-design-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
