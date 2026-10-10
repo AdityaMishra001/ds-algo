@@ -47,6 +47,7 @@
 | [0207-course-schedule](https://github.com/AdityaMishra001/ds-algo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
@@ -60,6 +61,7 @@
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
@@ -166,6 +168,7 @@
 | [0207-course-schedule](https://github.com/AdityaMishra001/ds-algo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Dynamic Programming
 |  |
@@ -204,6 +207,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaMishra001/ds-algo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -314,4 +318,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/1021-remove-outermost-parentheses) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
