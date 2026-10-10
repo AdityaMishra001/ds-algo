@@ -1,43 +1,34 @@
 class Solution {
 public:
+    bool dfs(int node,vector<vector<int>>& graph,vector<bool>&safe,vector<bool>&visited,vector<bool>&pathVis){
+
+        visited[node]=pathVis[node]=1;
+        for(int neigh:graph[node]){
+            if(!visited[neigh]){
+                if(dfs(neigh,graph,safe,visited,pathVis))
+                    return 1;//cycle
+            }else if(pathVis[neigh]){
+                return 1;//cycel
+            }
+        }
+        pathVis[node]=0;//backtrack
+        safe[node]=1;
+        return false;//no cycle
+    }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n=graph.size();
-        vector<vector<int>>revGraph(n);
-
-        vector<int>out_degree(n,0);
-        vector<bool>safe(n,false);
-        queue<int>q;
-
+        vector<bool>safe(n),visited(n),pathVis(n);
         for(int i=0;i<n;i++){
-            out_degree[i]=graph[i].size();
-            if(out_degree[i]==0){
-                q.push(i);
-                safe[i]=1;
+            if(!visited[i]){
+                dfs(i,graph,safe,visited,pathVis);
             }
+        }
 
-            for(int g:graph[i]){
-                revGraph[g].push_back(i);
-            }
-        }
-        
-        while(!q.empty()){
-            int size=q.size();
-            while(size--){
-                int curr=q.front();
-                q.pop();
-                for(int prev:revGraph[curr]){
-                    out_degree[prev]--;
-                    if(!out_degree[prev]){
-                        q.push(prev);
-                        safe[prev]=1;
-                    }
-                }
-            }
-        }
-        vector<int>ans;
+        vector<int>safe_nodes;
         for(int i=0;i<n;i++){
-            if(safe[i])ans.push_back(i);
+            if(safe[i])
+            safe_nodes.push_back(i);
         }
-        return ans;
+        return safe_nodes;
     }
 };
