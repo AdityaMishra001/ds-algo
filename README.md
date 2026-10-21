@@ -91,6 +91,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
+| [0382-linked-list-random-node](https://github.com/AdityaMishra001/ds-algo/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0707-design-linked-list) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
+| [0382-linked-list-random-node](https://github.com/AdityaMishra001/ds-algo/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0445-add-two-numbers-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AdityaMishra001/ds-algo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
@@ -326,4 +328,12 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/AdityaMishra001/ds-algo/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/AdityaMishra001/ds-algo/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
