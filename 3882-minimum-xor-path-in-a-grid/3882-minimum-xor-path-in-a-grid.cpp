@@ -1,36 +1,35 @@
 class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        
-        vector<bitset<1024>>dp(m*n);
-        dp[0].set(grid[0][0]);
+        int m=grid.size();
+        int n=grid[0].size();
+        vector<vector<bitset<1024>>>dp(m,vector<bitset<1024>>(n));
+        dp[0][0].set(grid[0][0]);
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(i==0&&j==0)continue;
-                int curr= i*n+j;
-                if(i>0){
-                    int top=(i-1)*n+j;
+        for(int row=0;row<m;row++){
+            for(int col=0;col<n;col++){
+                if(row==0&&col==0)continue;
+                //top
+                if(row>0){
                     for(int k=0;k<1024;k++){
-                        if(dp[top][k])
-                            dp[curr].set(k^grid[i][j]);//k->prevState(exors)
+                        if(dp[row-1][col][k]){
+                            dp[row][col].set(k^grid[row][col]);
+                        }
                     }
                 }
-                if(j>0){
-                    int left=i*n+j-1;
+                //left
+                if(col>0){
                     for(int k=0;k<1024;k++){
-                        if(dp[left][k])
-                            dp[curr].set(k^grid[i][j]);
+                        if(dp[row][col-1][k]){
+                            dp[row][col].set(k^grid[row][col]);
+                        }
                     }
                 }
             }
         }
-       
-        int destination=m*n-1;//(m-1)*n+(n-1)
+
         for(int k=0;k<1024;k++){
-            if(dp[destination][k])return k;
+            if(dp[m-1][n-1][k])return k;
         }
         return 1024;
     }
