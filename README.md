@@ -124,6 +124,7 @@
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
+| [0722-remove-comments](https://github.com/AdityaMishra001/ds-algo/tree/master/0722-remove-comments) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/0022-generate-parentheses) |
+| [0722-remove-comments](https://github.com/AdityaMishra001/ds-algo/tree/master/0722-remove-comments) |
 | [1021-remove-outermost-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/AdityaMishra001/ds-algo/tree/master/1360-number-of-days-between-two-dates) |
 | [2409-count-days-spent-together](https://github.com/AdityaMishra001/ds-algo/tree/master/2409-count-days-spent-together) |
