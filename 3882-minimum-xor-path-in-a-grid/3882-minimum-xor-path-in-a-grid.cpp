@@ -21,10 +21,6 @@ public:
                 }
             }
         }
-
-        int minXorPath=INT_MAX;
-        for(auto &it:dp[m-1][n-1])
-            minXorPath=min(minXorPath,it);
-        return minXorPath;
+        return *min_element(dp[m-1][n-1].begin(),dp[m-1][n-1].end());
     }
 };
