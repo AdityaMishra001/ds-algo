@@ -4,23 +4,34 @@ public:
         int m = grid.size();
         int n = grid[0].size();
         
-        vector<vector<unordered_set<int>>>dp(m,vector<unordered_set<int>>(n));
-        dp[0][0].insert(grid[0][0]);
+        vector<bitset<1024>>dp(m*n);
+        dp[0].set(grid[0][0]);
+
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(i==0&&j==0)continue;
+                int curr= i*n+j;
                 if(i>0){
-                    for(int x:dp[i-1][j]){
-                        dp[i][j].insert(x^grid[i][j]);
+                    int top=(i-1)*n+j;
+                    for(int k=0;k<1024;k++){
+                        if(dp[top][k])
+                            dp[curr].set(k^grid[i][j]);//k->prevState(exors)
                     }
                 }
                 if(j>0){
-                    for(int x:dp[i][j-1]){
-                        dp[i][j].insert(x^grid[i][j]);
+                    int left=i*n+j-1;
+                    for(int k=0;k<1024;k++){
+                        if(dp[left][k])
+                            dp[curr].set(k^grid[i][j]);
                     }
                 }
             }
         }
-        return *min_element(dp[m-1][n-1].begin(),dp[m-1][n-1].end());
+       
+        int destination=m*n-1;//(m-1)*n+(n-1)
+        for(int k=0;k<1024;k++){
+            if(dp[destination][k])return k;
+        }
+        return 1024;
     }
 };
