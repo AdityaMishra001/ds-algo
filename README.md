@@ -136,6 +136,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AdityaMishra001/ds-algo/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
@@ -189,6 +190,7 @@
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AdityaMishra001/ds-algo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AdityaMishra001/ds-algo/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AdityaMishra001/ds-algo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
