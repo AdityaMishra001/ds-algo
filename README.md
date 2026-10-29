@@ -348,4 +348,8 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/AdityaMishra001/ds-algo/tree/master/0382-linked-list-random-node) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AdityaMishra001/ds-algo/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
