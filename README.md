@@ -209,6 +209,7 @@
 | ------- |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3612-process-string-with-special-operations-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [2409-count-days-spent-together](https://github.com/AdityaMishra001/ds-algo/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMishra001/ds-algo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AdityaMishra001/ds-algo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3612-process-string-with-special-operations-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3612-process-string-with-special-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
