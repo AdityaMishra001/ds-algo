@@ -82,6 +82,7 @@ _Last 10 accepted submissions_
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1609-even-odd-tree) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ _Last 10 accepted submissions_
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaMishra001/ds-algo/tree/master/1833-maximum-ice-cream-bars) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,6 +154,7 @@ _Last 10 accepted submissions_
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AdityaMishra001/ds-algo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AdityaMishra001/ds-algo/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
@@ -187,6 +190,7 @@ _Last 10 accepted submissions_
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Graph Theory
 |  |
 | ------- |
@@ -224,6 +228,7 @@ _Last 10 accepted submissions_
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -296,6 +301,7 @@ _Last 10 accepted submissions_
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Enumeration
 |  |
 | ------- |
@@ -377,4 +383,8 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AdityaMishra001/ds-algo/tree/master/0051-n-queens) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
