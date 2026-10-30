@@ -2,11 +2,19 @@ class Solution {
 public:
     int lenLongestFibSubseq(vector<int>& arr) {
         int n = arr.size(), maxLen = 0;
+
         unordered_set<int> seen;
-        for (int a : arr)seen.insert(a);
+        for (int a : arr)
+            seen.insert(a);
+
         for (int i = 0; i < n - 2; i++) {
-            if(i+maxLen-1>=n)break;
+            if(i+maxLen-1>=n)
+                break;
+
             for (int j = i + 1; j < n - 1; j++) {
+                if(j+maxLen-2>=n)
+                    break;
+
                 int currLen = 2;
                 int prev2=arr[i],prev1=arr[j];
                 long long target = prev2 + prev1;
