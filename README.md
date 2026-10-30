@@ -91,6 +91,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/AdityaMishra001/ds-algo/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0445-add-two-numbers-ii) |
