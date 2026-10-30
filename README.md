@@ -118,6 +118,7 @@
 | [0120-triangle](https://github.com/AdityaMishra001/ds-algo/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/AdityaMishra001/ds-algo/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AdityaMishra001/ds-algo/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0213-house-robber-ii) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 ## Union-Find
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
