@@ -17,6 +17,20 @@
   Focused on problem-solving, pattern recognition, and interview preparation.
 </p>
 
+
+<!-- RECENT_SUBMISSIONS_START -->
+
+## 🕒 Recent LeetCode Submissions
+
+_Last 10 accepted submissions_
+
+| # | Problem | Difficulty | Submitted |
+|---|---|---|---|
+| | Loading submissions... | | |
+
+<!-- RECENT_SUBMISSIONS_END -->
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
