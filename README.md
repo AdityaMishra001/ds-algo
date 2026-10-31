@@ -158,6 +158,7 @@ _Last 10 accepted submissions_
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3903-smallest-stable-index-i) |
@@ -216,6 +217,7 @@ _Last 10 accepted submissions_
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
+| [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
@@ -229,6 +231,7 @@ _Last 10 accepted submissions_
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
