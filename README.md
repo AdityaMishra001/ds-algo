@@ -150,6 +150,7 @@ _Last 10 accepted submissions_
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AdityaMishra001/ds-algo/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 | [1652-defuse-the-bomb](https://github.com/AdityaMishra001/ds-algo/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaMishra001/ds-algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
