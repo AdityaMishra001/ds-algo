@@ -262,6 +262,7 @@ _Last 10 accepted submissions_
 | [0078-subsets](https://github.com/AdityaMishra001/ds-algo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/0260-single-number-iii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AdityaMishra001/ds-algo/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AdityaMishra001/ds-algo/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -284,6 +285,7 @@ _Last 10 accepted submissions_
 | [0382-linked-list-random-node](https://github.com/AdityaMishra001/ds-algo/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AdityaMishra001/ds-algo/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AdityaMishra001/ds-algo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1360-number-of-days-between-two-dates](https://github.com/AdityaMishra001/ds-algo/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -415,4 +417,8 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AdityaMishra001/ds-algo/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
