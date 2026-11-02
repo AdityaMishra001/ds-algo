@@ -7,13 +7,16 @@ public:
         return moves;
     }
     int partition(vector<int>&nums,int low,int high){
-        int pivot=nums[high];
+        // int pivotId=low+ rand()%(high-low+1);
+        int pivot_val=nums[high];
+        // swap(nums[pivotId],nums[high]);
         int i=low-1;
-        for(int j=low;j<=high;j++){
-            if(nums[j]<=pivot){
+        for(int j=low;j<high;j++){
+            if(nums[j]<=pivot_val){
                 swap(nums[++i],nums[j]);
             }
         }
+        swap(nums[++i],nums[high]);
         return i;
     }
     int find_median(vector<int>&nums,int low,int high,int k){
