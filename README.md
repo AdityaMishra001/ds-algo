@@ -153,6 +153,7 @@ _Last 10 accepted submissions_
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AdityaMishra001/ds-algo/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 | [1652-defuse-the-bomb](https://github.com/AdityaMishra001/ds-algo/tree/master/1652-defuse-the-bomb) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaMishra001/ds-algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaMishra001/ds-algo/tree/master/1833-maximum-ice-cream-bars) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AdityaMishra001/ds-algo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -268,6 +269,7 @@ _Last 10 accepted submissions_
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3903-smallest-stable-index-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -278,6 +280,7 @@ _Last 10 accepted submissions_
 | [0445-add-two-numbers-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0445-add-two-numbers-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AdityaMishra001/ds-algo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1360-number-of-days-between-two-dates](https://github.com/AdityaMishra001/ds-algo/tree/master/1360-number-of-days-between-two-dates) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2409-count-days-spent-together](https://github.com/AdityaMishra001/ds-algo/tree/master/2409-count-days-spent-together) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
