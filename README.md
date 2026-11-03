@@ -344,6 +344,7 @@ _Last 10 accepted submissions_
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/AdityaMishra001/ds-algo/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/0022-generate-parentheses) |
 | [0722-remove-comments](https://github.com/AdityaMishra001/ds-algo/tree/master/0722-remove-comments) |
 | [1021-remove-outermost-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/1021-remove-outermost-parentheses) |
