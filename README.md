@@ -88,6 +88,7 @@ _Last 10 accepted submissions_
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
@@ -129,6 +130,7 @@ _Last 10 accepted submissions_
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/AdityaMishra001/ds-algo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdityaMishra001/ds-algo/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
@@ -316,6 +318,7 @@ _Last 10 accepted submissions_
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
