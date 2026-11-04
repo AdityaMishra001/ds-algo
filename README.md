@@ -92,6 +92,7 @@ _Last 10 accepted submissions_
 | [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -321,6 +322,7 @@ _Last 10 accepted submissions_
 | [0018-4sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -378,6 +380,7 @@ _Last 10 accepted submissions_
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 | [0707-design-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
@@ -411,6 +414,7 @@ _Last 10 accepted submissions_
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
@@ -425,4 +429,8 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AdityaMishra001/ds-algo/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
