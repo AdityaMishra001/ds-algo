@@ -38,6 +38,7 @@ _Last 10 accepted submissions_
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdityaMishra001/ds-algo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdityaMishra001/ds-algo/tree/master/0037-sudoku-solver) |
+| [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
 | [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -92,6 +93,7 @@ _Last 10 accepted submissions_
 | [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
@@ -147,6 +149,7 @@ _Last 10 accepted submissions_
 | [0198-house-robber](https://github.com/AdityaMishra001/ds-algo/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -345,6 +348,7 @@ _Last 10 accepted submissions_
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Recursion
 |  |
@@ -437,4 +441,8 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
