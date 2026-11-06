@@ -43,6 +43,7 @@ _Last 10 accepted submissions_
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2747-count-zero-request-servers](https://github.com/AdityaMishra001/ds-algo/tree/master/2747-count-zero-request-servers) |
 ## Tree
 |  |
 | ------- |
@@ -101,6 +102,7 @@ _Last 10 accepted submissions_
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaMishra001/ds-algo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaMishra001/ds-algo/tree/master/1833-maximum-ice-cream-bars) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2747-count-zero-request-servers](https://github.com/AdityaMishra001/ds-algo/tree/master/2747-count-zero-request-servers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,6 +175,7 @@ _Last 10 accepted submissions_
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2747-count-zero-request-servers](https://github.com/AdityaMishra001/ds-algo/tree/master/2747-count-zero-request-servers) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
@@ -379,6 +382,7 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/AdityaMishra001/ds-algo/tree/master/1652-defuse-the-bomb) |
+| [2747-count-zero-request-servers](https://github.com/AdityaMishra001/ds-algo/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMishra001/ds-algo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Merge Sort
 |  |
