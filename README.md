@@ -97,6 +97,7 @@ _Last 10 accepted submissions_
 | [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaMishra001/ds-algo/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -131,6 +132,7 @@ _Last 10 accepted submissions_
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0445-add-two-numbers-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -159,6 +161,7 @@ _Last 10 accepted submissions_
 | [0494-target-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0722-remove-comments](https://github.com/AdityaMishra001/ds-algo/tree/master/0722-remove-comments) |
+| [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
@@ -196,6 +199,7 @@ _Last 10 accepted submissions_
 | [0055-jump-game](https://github.com/AdityaMishra001/ds-algo/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
+| [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaMishra001/ds-algo/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search Tree
@@ -449,4 +453,8 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
