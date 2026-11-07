@@ -5,11 +5,11 @@ public:
 
         vector<vector<int>>dp(n,vector<int>(27,0));
         for(int start=0;start<n;start++){
-            vector<int>freq(26,0);
+            vector<bool>seen(26,0);
             int dist=0;
             for(int k=start;k<n;k++){
-                if(freq[s[k]-'a']==0)dist++;
-                freq[s[k]-'a']++;
+                if(seen[s[k]-'a']==0)dist++;
+                seen[s[k]-'a']=1;
                 dp[start][dist]++;
             }
         }
