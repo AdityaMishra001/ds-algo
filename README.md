@@ -69,6 +69,7 @@ _Last 10 accepted submissions_
 | [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AdityaMishra001/ds-algo/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -87,6 +88,7 @@ _Last 10 accepted submissions_
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AdityaMishra001/ds-algo/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1609-even-odd-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1609-even-odd-tree) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -169,6 +171,7 @@ _Last 10 accepted submissions_
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AdityaMishra001/ds-algo/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaMishra001/ds-algo/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -221,6 +224,7 @@ _Last 10 accepted submissions_
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Graph Theory
 |  |
@@ -261,6 +265,7 @@ _Last 10 accepted submissions_
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
@@ -362,6 +367,7 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Recursion
 |  |
