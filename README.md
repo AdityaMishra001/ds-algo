@@ -345,6 +345,7 @@ _Last 10 accepted submissions_
 | ------- |
 | [0018-4sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/AdityaMishra001/ds-algo/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaMishra001/ds-algo/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -378,6 +379,7 @@ _Last 10 accepted submissions_
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AdityaMishra001/ds-algo/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/AdityaMishra001/ds-algo/tree/master/0151-reverse-words-in-a-string) |
 | [0722-remove-comments](https://github.com/AdityaMishra001/ds-algo/tree/master/0722-remove-comments) |
 | [1021-remove-outermost-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/AdityaMishra001/ds-algo/tree/master/1360-number-of-days-between-two-dates) |
