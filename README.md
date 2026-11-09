@@ -67,6 +67,7 @@ _Last 10 accepted submissions_
 | [0210-course-schedule-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/AdityaMishra001/ds-algo/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
@@ -84,6 +85,7 @@ _Last 10 accepted submissions_
 | [0463-island-perimeter](https://github.com/AdityaMishra001/ds-algo/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/AdityaMishra001/ds-algo/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AdityaMishra001/ds-algo/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -169,6 +171,7 @@ _Last 10 accepted submissions_
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0722-remove-comments](https://github.com/AdityaMishra001/ds-algo/tree/master/0722-remove-comments) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
+| [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
@@ -216,6 +219,7 @@ _Last 10 accepted submissions_
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
+| [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaMishra001/ds-algo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AdityaMishra001/ds-algo/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -225,6 +229,7 @@ _Last 10 accepted submissions_
 | [0130-surrounded-regions](https://github.com/AdityaMishra001/ds-algo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AdityaMishra001/ds-algo/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -265,6 +270,7 @@ _Last 10 accepted submissions_
 | [0200-number-of-islands](https://github.com/AdityaMishra001/ds-algo/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AdityaMishra001/ds-algo/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
@@ -448,6 +454,7 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AdityaMishra001/ds-algo/tree/master/0295-find-median-from-data-stream) |
+| [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/AdityaMishra001/ds-algo/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
@@ -478,4 +485,12 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AdityaMishra001/ds-algo/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
