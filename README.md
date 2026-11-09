@@ -38,6 +38,7 @@ _Last 10 accepted submissions_
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdityaMishra001/ds-algo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdityaMishra001/ds-algo/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/AdityaMishra001/ds-algo/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
 | [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -123,6 +124,7 @@ _Last 10 accepted submissions_
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/AdityaMishra001/ds-algo/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/0237-delete-node-in-a-linked-list) |
