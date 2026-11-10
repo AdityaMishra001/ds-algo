@@ -148,6 +148,7 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AdityaMishra001/ds-algo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AdityaMishra001/ds-algo/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0047-permutations-ii) |
@@ -218,6 +219,7 @@ _Last 10 accepted submissions_
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/AdityaMishra001/ds-algo/tree/master/0410-split-array-largest-sum) |
