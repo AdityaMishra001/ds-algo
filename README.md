@@ -321,6 +321,7 @@ _Last 10 accepted submissions_
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AdityaMishra001/ds-algo/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
 | [0382-linked-list-random-node](https://github.com/AdityaMishra001/ds-algo/tree/master/0382-linked-list-random-node) |
@@ -387,6 +388,7 @@ _Last 10 accepted submissions_
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AdityaMishra001/ds-algo/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0060-permutation-sequence) |
 ## String
 |  |
