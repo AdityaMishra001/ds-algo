@@ -181,6 +181,7 @@ _Last 10 accepted submissions_
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AdityaMishra001/ds-algo/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AdityaMishra001/ds-algo/tree/master/1310-xor-queries-of-a-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaMishra001/ds-algo/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaMishra001/ds-algo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AdityaMishra001/ds-algo/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1652-defuse-the-bomb](https://github.com/AdityaMishra001/ds-algo/tree/master/1652-defuse-the-bomb) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -226,6 +227,7 @@ _Last 10 accepted submissions_
 | [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaMishra001/ds-algo/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaMishra001/ds-algo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AdityaMishra001/ds-algo/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Union-Find
 |  |
