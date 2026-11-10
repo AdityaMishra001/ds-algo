@@ -194,6 +194,7 @@ _Last 10 accepted submissions_
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3903-smallest-stable-index-i) |
@@ -261,6 +262,7 @@ _Last 10 accepted submissions_
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AdityaMishra001/ds-algo/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
