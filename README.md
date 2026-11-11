@@ -194,6 +194,7 @@ _Last 10 accepted submissions_
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2747-count-zero-request-servers](https://github.com/AdityaMishra001/ds-algo/tree/master/2747-count-zero-request-servers) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
+| [2951-find-the-peaks](https://github.com/AdityaMishra001/ds-algo/tree/master/2951-find-the-peaks) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3693-climbing-stairs-ii) |
@@ -374,6 +375,7 @@ _Last 10 accepted submissions_
 ## Enumeration
 |  |
 | ------- |
+| [2951-find-the-peaks](https://github.com/AdityaMishra001/ds-algo/tree/master/2951-find-the-peaks) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
 ## Binary Indexed Tree
 |  |
