@@ -43,6 +43,7 @@ _Last 10 accepted submissions_
 | [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AdityaMishra001/ds-algo/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2747-count-zero-request-servers](https://github.com/AdityaMishra001/ds-algo/tree/master/2747-count-zero-request-servers) |
 ## Tree
@@ -390,6 +391,7 @@ _Last 10 accepted submissions_
 | ------- |
 | [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AdityaMishra001/ds-algo/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Recursion
 |  |
@@ -405,6 +407,7 @@ _Last 10 accepted submissions_
 | [0722-remove-comments](https://github.com/AdityaMishra001/ds-algo/tree/master/0722-remove-comments) |
 | [1021-remove-outermost-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/AdityaMishra001/ds-algo/tree/master/1360-number-of-days-between-two-dates) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AdityaMishra001/ds-algo/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2409-count-days-spent-together](https://github.com/AdityaMishra001/ds-algo/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMishra001/ds-algo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AdityaMishra001/ds-algo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
