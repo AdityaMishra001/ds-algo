@@ -217,6 +217,7 @@ _Last 10 accepted submissions_
 | [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
 | [1382-balance-a-binary-search-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaMishra001/ds-algo/tree/master/1833-maximum-ice-cream-bars) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AdityaMishra001/ds-algo/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -337,6 +338,7 @@ _Last 10 accepted submissions_
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AdityaMishra001/ds-algo/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Combinatorics
 |  |
 | ------- |
