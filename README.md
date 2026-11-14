@@ -146,6 +146,7 @@ _Last 10 accepted submissions_
 | [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaMishra001/ds-algo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaMishra001/ds-algo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Array
 |  |
 | ------- |
@@ -200,6 +201,7 @@ _Last 10 accepted submissions_
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2951-find-the-peaks](https://github.com/AdityaMishra001/ds-algo/tree/master/2951-find-the-peaks) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaMishra001/ds-algo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AdityaMishra001/ds-algo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -393,6 +395,7 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaMishra001/ds-algo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -434,6 +437,7 @@ _Last 10 accepted submissions_
 | [1652-defuse-the-bomb](https://github.com/AdityaMishra001/ds-algo/tree/master/1652-defuse-the-bomb) |
 | [2747-count-zero-request-servers](https://github.com/AdityaMishra001/ds-algo/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMishra001/ds-algo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaMishra001/ds-algo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -506,6 +510,7 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaMishra001/ds-algo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -522,4 +527,12 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AdityaMishra001/ds-algo/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaMishra001/ds-algo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaMishra001/ds-algo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
