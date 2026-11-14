@@ -41,6 +41,7 @@ _Last 10 accepted submissions_
 | [0138-copy-list-with-random-pointer](https://github.com/AdityaMishra001/ds-algo/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0229-majority-element-ii) |
 | [0432-all-oone-data-structure](https://github.com/AdityaMishra001/ds-algo/tree/master/0432-all-oone-data-structure) |
+| [0840-magic-squares-in-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/0840-magic-squares-in-grid) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaMishra001/ds-algo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AdityaMishra001/ds-algo/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -174,6 +175,7 @@ _Last 10 accepted submissions_
 | [0722-remove-comments](https://github.com/AdityaMishra001/ds-algo/tree/master/0722-remove-comments) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AdityaMishra001/ds-algo/tree/master/0769-max-chunks-to-make-sorted) |
 | [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/0840-magic-squares-in-grid) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0912-sort-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
@@ -281,6 +283,7 @@ _Last 10 accepted submissions_
 | [0463-island-perimeter](https://github.com/AdityaMishra001/ds-algo/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/AdityaMishra001/ds-algo/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/AdityaMishra001/ds-algo/tree/master/0778-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/AdityaMishra001/ds-algo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaMishra001/ds-algo/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaMishra001/ds-algo/tree/master/1267-count-servers-that-communicate) |
@@ -333,6 +336,7 @@ _Last 10 accepted submissions_
 | [0445-add-two-numbers-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AdityaMishra001/ds-algo/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0840-magic-squares-in-grid](https://github.com/AdityaMishra001/ds-algo/tree/master/0840-magic-squares-in-grid) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AdityaMishra001/ds-algo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1360-number-of-days-between-two-dates](https://github.com/AdityaMishra001/ds-algo/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
