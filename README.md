@@ -192,6 +192,7 @@ _Last 10 accepted submissions_
 | [1652-defuse-the-bomb](https://github.com/AdityaMishra001/ds-algo/tree/master/1652-defuse-the-bomb) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaMishra001/ds-algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaMishra001/ds-algo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaMishra001/ds-algo/tree/master/1833-maximum-ice-cream-bars) |
 | [2017-grid-game](https://github.com/AdityaMishra001/ds-algo/tree/master/2017-grid-game) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AdityaMishra001/ds-algo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -302,6 +303,7 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AdityaMishra001/ds-algo/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaMishra001/ds-algo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AdityaMishra001/ds-algo/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3612-process-string-with-special-operations-i) |
@@ -348,6 +350,7 @@ _Last 10 accepted submissions_
 | [1344-angle-between-hands-of-a-clock](https://github.com/AdityaMishra001/ds-algo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1360-number-of-days-between-two-dates](https://github.com/AdityaMishra001/ds-algo/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaMishra001/ds-algo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2409-count-days-spent-together](https://github.com/AdityaMishra001/ds-algo/tree/master/2409-count-days-spent-together) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -411,6 +414,7 @@ _Last 10 accepted submissions_
 | ------- |
 | [0050-powx-n](https://github.com/AdityaMishra001/ds-algo/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0060-permutation-sequence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaMishra001/ds-algo/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -534,6 +538,7 @@ _Last 10 accepted submissions_
 ## Queue
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaMishra001/ds-algo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaMishra001/ds-algo/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
