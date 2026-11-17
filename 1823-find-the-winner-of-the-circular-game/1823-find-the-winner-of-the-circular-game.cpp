@@ -1,37 +1,36 @@
+class Node {
+public:
+    int val;
+    Node* next;
+    Node(int v=0,Node* n=nullptr):val(v),next(n){}
+};
 class Solution {
 public:
-    class Node{
-    public:
-        int val;
-        Node*next;
-        Node(int val=0,Node* next=nullptr):val(val),next(next){}
-    };
-   
-       
-    Node* winner(int k,Node* head){
-        if(head->next==head)
-            return head;
+    int winner(Node* h,int k,int size){
+        if(size==1)return h->val;
+        // cout<<"Currently at "<<h->val<<endl;
         for(int i=1;i<k;i++){
-            head=head->next;
+            h=h->next;
         }
-        head->val=head->next->val;
 
-        Node* del=head->next;
-        head->next=del->next;
-        delete del;
-        return winner(k,head);
+        Node* toBeDel=h->next;
+        h->val=toBeDel->val;
+        h->next=toBeDel->next;
+        // cout<<" Node to Be del "<<toBeDel->val<<endl<<endl;
+        delete toBeDel;
+
+        return winner(h,k,size-1);
     }
     int findTheWinner(int n, int k) {
-        
-        if(n==1)
-            return 1;
-        Node dummy;
-        Node* p=&dummy;
+        if(n==1)return 1;
+        Node d;
+        Node* h=&d;
         for(int i=1;i<=n;i++){
-            p->next=new Node(i);
-            p=p->next;
+            h->next=new Node(i);
+            h=h->next;
         }
-        p->next=dummy.next;
-        return winner(k,dummy.next)->val;
+        h->next=d.next;
+        h=h->next;
+        return winner(h,k,n);
     }
 };
