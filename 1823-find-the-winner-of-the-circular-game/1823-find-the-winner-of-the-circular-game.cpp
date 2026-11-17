@@ -9,7 +9,8 @@ public:
     int winner(Node* h,int k,int size){
         if(size==1)return h->val;
         // cout<<"Currently at "<<h->val<<endl;
-        for(int i=1;i<k;i++){
+        int effK=(k-1)%size+1;
+        for(int i=1;i<effK;i++){
             h=h->next;
         }
 
