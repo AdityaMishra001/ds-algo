@@ -276,6 +276,7 @@ _Last 10 accepted submissions_
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AdityaMishra001/ds-algo/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/AdityaMishra001/ds-algo/tree/master/0907-sum-of-subarray-minimums) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AdityaMishra001/ds-algo/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2063-vowels-of-all-substrings](https://github.com/AdityaMishra001/ds-algo/tree/master/2063-vowels-of-all-substrings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/AdityaMishra001/ds-algo/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaMishra001/ds-algo/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/AdityaMishra001/ds-algo/tree/master/3693-climbing-stairs-ii) |
@@ -351,6 +352,7 @@ _Last 10 accepted submissions_
 | [1360-number-of-days-between-two-dates](https://github.com/AdityaMishra001/ds-algo/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AdityaMishra001/ds-algo/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaMishra001/ds-algo/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2063-vowels-of-all-substrings](https://github.com/AdityaMishra001/ds-algo/tree/master/2063-vowels-of-all-substrings) |
 | [2409-count-days-spent-together](https://github.com/AdityaMishra001/ds-algo/tree/master/2409-count-days-spent-together) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/AdityaMishra001/ds-algo/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AdityaMishra001/ds-algo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -360,6 +362,7 @@ _Last 10 accepted submissions_
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdityaMishra001/ds-algo/tree/master/0062-unique-paths) |
+| [2063-vowels-of-all-substrings](https://github.com/AdityaMishra001/ds-algo/tree/master/2063-vowels-of-all-substrings) |
 ## Brainteaser
 |  |
 | ------- |
@@ -425,6 +428,7 @@ _Last 10 accepted submissions_
 | [1021-remove-outermost-parentheses](https://github.com/AdityaMishra001/ds-algo/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/AdityaMishra001/ds-algo/tree/master/1360-number-of-days-between-two-dates) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AdityaMishra001/ds-algo/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2063-vowels-of-all-substrings](https://github.com/AdityaMishra001/ds-algo/tree/master/2063-vowels-of-all-substrings) |
 | [2409-count-days-spent-together](https://github.com/AdityaMishra001/ds-algo/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMishra001/ds-algo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AdityaMishra001/ds-algo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
